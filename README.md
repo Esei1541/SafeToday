@@ -1,5 +1,5 @@
 # SafeToday
-【開発期間】2019.04 ~ 2019.06 
+【開発期間】2019.04 ~ 2019.06 <br>
 【Platform】 PC/Android
 【言語】 C#
 【開発エンジン】 Unity
